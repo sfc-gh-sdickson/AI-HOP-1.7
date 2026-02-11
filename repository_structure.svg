@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
   <rect width="800" height="600" fill="#FFFFFF" rx="5" />
   
@@ -7,7 +8,7 @@
     <text x="25" y="15" font-family="Arial, sans-serif" font-size="14px" fill="#212121" font-weight="bold">Troon/</text>
     
     <!-- Level 1 Lines -->
-    <path d="M 8 25 L 8 470" stroke="#BDBDBD" stroke-width="1" fill="none" />
+    <path d="M 8 25 L 8 500" stroke="#BDBDBD" stroke-width="1" fill="none" />
     
     <!-- Docs Folder -->
     <g transform="translate(30, 40)">
