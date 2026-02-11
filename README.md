@@ -12,7 +12,7 @@ This repository contains a complete, production-ready implementation of a **Snow
 
 The solution leverages the full power of the Snowflake AI Data Cloud, integrating **Cortex Analyst** for structured queries, **Cortex Search** for vector-based document retrieval, and **Snowpark ML** for predictive modeling.
 
-![Architecture Diagram](docs/architecture_diagram.svg)
+![Architecture Diagram](architecture_diagram.svg)
 
 ### Key Capabilities
 
@@ -27,17 +27,17 @@ The solution leverages the full power of the Snowflake AI Data Cloud, integratin
 
 ## 📂 Repository Structure
 
-![Repository Structure](docs/repository_structure.svg)
+![Repository Structure](repository_structure.svg)
 
 ---
 
 ## 🚀 Getting Started
 
-Follow the **[Detailed Setup Guide](docs/TROON_SETUP_GUIDE.md)** for step-by-step instructions.
+Follow the **[Detailed Setup Guide](TROON_SETUP_GUIDE.md)** for step-by-step instructions.
 
 ### Deployment Workflow
 
-![Setup Flow](docs/setup_flow_diagram.svg)
+![Setup Flow](setup_flow_diagram.svg)
 
 1.  **Initialize Environment** (`sql/setup/`): Create database, schema, and tables.
 2.  **Hydrate Data** (`sql/data/`): Generate synthetic production-grade data.
